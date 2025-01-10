@@ -1,7 +1,0 @@
-streamlit
-pandas
-numpy
-joblib
-seaborn
-sklearn
-mplsoccer
